@@ -3,3 +3,6 @@ pandas
 scikit-learn
 openpyxl
 numpy
+sentence-transformers
+faiss-cpu
+torch

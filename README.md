@@ -171,6 +171,9 @@ The application will display:
 ✅ **Accurate Matching**: Advanced NLP techniques
 ✅ **Professional UI**: Beautiful, user-friendly design
 ✅ **Free & Open Source**: No licensing costs
+✅ **AI-Powered**: RAG provides intelligent, explainable recommendations
+✅ **Semantic Search**: Understands meaning, not just keywords
+✅ **Future-Ready**: Easy to integrate with LLMs like GPT-4
 
 ## 📞 Support
 
